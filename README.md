@@ -1,0 +1,1 @@
+# MYCURE-assessment-exam
