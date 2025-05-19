@@ -1,0 +1,3 @@
+1. Git merge is the process of adding features/copying a branch's changes and putting them into main while rebase changes the commits to be after main which rewrites main and commits over main instead of having 2 different branches, there is only one.
+2. The ls -la command, aside from listing the files, show more information that just the name of the file. It shows the directory name, file owner, permissions, size and modified date and time. The ls command simply just lists the files names.
+3. Environment Variables are meant to handle sensitive information that should not be in plain sight like HTML or CSS where it can be read and inspected.
