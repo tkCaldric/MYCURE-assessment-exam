@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/150?text=Headphones"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Stand",
+    "price": 14.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/150?text=Stand"
+  },
+  {
+    "id": 3,
+    "name": "Mystery Novel - 'The Last Clue'",
+    "price": 9.95,
+    "category": "Books",
+    "image": "https://via.placeholder.com/150?text=Book"
+  },
+  {
+    "id": 4,
+    "name": "Cookbook - 'Easy Vegan Meals'",
+    "price": 18.50,
+    "category": "Books",
+    "image": "https://via.placeholder.com/150?text=Cookbook"
+  },
+  {
+    "id": 5,
+    "name": "Men's T-Shirt",
+    "price": 12.00,
+    "category": "Clothing",
+    "image": "https://via.placeholder.com/150?text=T-Shirt"
+  },
+  {
+    "id": 6,
+    "name": "Women's Jeans",
+    "price": 29.99,
+    "category": "Clothing",
+    "image": "https://via.placeholder.com/150?text=Jeans"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "price": 39.99,
+    "category": "Electronics",
+    "image": "https://via.placeholder.com/150?text=Speaker"
+  },
+  {
+    "id": 8,
+    "name": "Electric Kettle",
+    "price": 25.00,
+    "category": "Home Appliances",
+    "image": "https://via.placeholder.com/150?text=Kettle"
+  },
+  {
+    "id": 9,
+    "name": "Blender",
+    "price": 45.49,
+    "category": "Home Appliances",
+    "image": "https://via.placeholder.com/150?text=Blender"
+  },
+  {
+    "id": 10,
+    "name": "Children’s Picture Book - 'Sunny Days'",
+    "price": 7.99,
+    "category": "Books",
+    "image": "https://via.placeholder.com/150?text=Picture+Book"
+  }
+]
